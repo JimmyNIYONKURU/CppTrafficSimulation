@@ -2,7 +2,7 @@
 
 <img src="data/traffic_simulation.gif"/>
 
-Simualting ...
+Simulating ...
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
